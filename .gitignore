@@ -5,3 +5,5 @@
 /.vs
 /API/bin/Debug/net9.0
 /API/obj
+/src/API/bin/Debug/net9.0
+/src/API/obj

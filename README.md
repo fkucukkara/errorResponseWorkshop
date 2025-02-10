@@ -63,7 +63,7 @@ internal record User(int Id);
 1. Clone the repository:
    ```bash
    git clone https://github.com/fkucukkara/errorResponseWorkshop.git
-   cd API
+   cd src/API
    ```
 
 2. Build and run the application:
